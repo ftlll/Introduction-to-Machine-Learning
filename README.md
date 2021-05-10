@@ -1,5 +1,5 @@
 # Introduction-to-Machine-Learning
-CS480 course assignments
+CS480 assignments
 
 Assignment 1: KNN and Linear Regression
 
